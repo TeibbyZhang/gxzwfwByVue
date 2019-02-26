@@ -1,0 +1,24 @@
+{
+  "status": 1,
+  "results": [{
+    "serviceImg": "/static/images/fw1.png",
+    "serviceName": "住房公积金",
+    "serviceAbs": "一键查询我的公积金"
+  },{
+    "serviceImg": "/static/images/fw2.png",
+    "serviceName": "社保查询",
+    "serviceAbs": "一键查询我的社保"
+  },{
+    "serviceImg": "/static/images/fw3.png",
+    "serviceName": "办事进度",
+    "serviceAbs": "快速查询，快捷到家"
+  },{
+    "serviceImg": "/static/images/fw4.png",
+    "serviceName": "工商登记",
+    "serviceAbs": "网上工商登记"
+  },{
+    "serviceImg": "/static/images/fw5.png",
+    "serviceName": "网上办税",
+    "serviceAbs": "一键网上办理"
+  }]
+}

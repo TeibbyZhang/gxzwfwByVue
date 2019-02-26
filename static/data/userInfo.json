@@ -1,0 +1,43 @@
+{
+  "status": 1,
+  "result": [{
+    "name": "张超懿",
+    "pwd": "82802480",
+	"photo": "/static/images/photo_bg.png",
+    "age": 23,
+    "sex": 0,
+    "birth": "1996-03-12",
+    "ic": "320684199603123111",
+    "e-mail": "1456995960@qq.com",
+    "isVertify": true,
+    "thisLevel": 1,
+    "isPerson": true,
+    "status": 1
+  },{
+    "name": "廖鸣",
+    "pwd": "123456",
+	"photo": "/static/images/photo_bg.png",
+    "age": 25,
+    "sex": 0,
+    "birth": "1994-08-08",
+    "ic": "320684199408085111",
+    "e-mail": "199558960@qq.com",
+    "isVertify": true,
+    "thisLevel": 9,
+    "isPerson": false,
+    "status": 1
+  },{
+    "name": "刘百聪",
+    "pwd": "123456",
+	"photo": "/static/images/photo_bg.png",
+    "age": 25,
+    "sex": 1,
+    "birth": "1994-07-08",
+    "ic": "320625199407085111",
+    "e-mail": "1777758960@qq.com",
+    "isVertify": true,
+    "thisLevel": 6,
+    "isPerson": true,
+    "status": 1
+  }]
+}
